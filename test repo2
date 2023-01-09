@@ -9,6 +9,7 @@ public class funcexer3
         return total;
     }
 
+
     public static void Main()
     {
         Console.Write("\n\nFunction to calculate the sum of two numbers :\n");
